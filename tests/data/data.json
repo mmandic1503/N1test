@@ -1,0 +1,9 @@
+{
+    "url": "http://www.acme.qualityhouse.bg/build3",
+    "loginUser": "student1",
+    "loginPass": "stpass1",
+    "userEmpty": "",
+    "passEmpty": "",
+    "userError": "studentError",
+    "passError": "stpassError"
+}

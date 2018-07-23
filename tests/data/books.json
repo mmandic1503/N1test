@@ -1,0 +1,256 @@
+{  
+    "art":[  
+       {  
+            "title":"Autumn Colors",
+            "author":"Diana Jones",
+            "publisher":"Nature Books Ltd.",
+            "ISBN":"55134124",
+            "price":"12.99"
+       },
+       {  
+            "title":"Drawing the Nature",
+            "author":"Joana Maxwell",
+            "publisher":"Nature Books Ltd.",
+            "ISBN":"12435678",
+            "price":"15.99"
+       },
+       {  
+            "title":"Dead Trees",
+            "author":"Amanda Jones",
+            "publisher":"Nature Books Ltd.",
+            "ISBN":"1231212134",
+            "price":"13.99"
+       },
+       {  
+            "title":"Clouds and Skies",
+            "author":"Susanne Jameson",
+            "publisher":"Nature Books Ltd.",
+            "ISBN":"2346123451",
+            "price":"11.49"
+       }
+    ],
+    "biographies":[  
+       {  
+            "title":"The Story of my Life",
+            "author":"Graham Peterson",
+            "publisher":"Mirabilis",
+            "ISBN":"21345678",
+            "price":"9.99"
+       },
+       {  
+            "title":"Clear Waters Around Me",
+            "author":"Penny Wize",
+            "publisher":"Mirabilis",
+            "ISBN":"241231234",
+            "price":"11.99"
+       }
+    ],
+    "childrenBooks":[  
+       {  
+            "title":"Yellow Flower Songs",
+            "author":"Lilly Penny",
+            "publisher":"Little World",
+            "ISBN":"622513423",
+            "price":"4.99"
+       },
+       {  
+            "title":"Bird Songs",
+            "author":"Lilly Penny",
+            "publisher":"Small World",
+            "ISBN":"452523251",
+            "price":"4.99"
+       }
+    ],
+    "finance":[  
+       {  
+            "title":"Become a Mogul",
+            "author":"John Williams",
+            "publisher":"Dollar Inc.",
+            "ISBN":"412842128",
+            "price":"19.99"
+       }
+    ],
+    "computers":[  
+       {  
+            "title":"Agile Technologies",
+            "author":"William Nelson",
+            "publisher":"Bit",
+            "ISBN":"5628423724",
+            "price":"23.49"
+       }
+    ],
+    "cookingFoodAndWine":[  
+       {  
+            "title":"Green Food",
+            "author":"Anne Wilkinson",
+            "publisher":"Nature Books Ltd.",
+            "ISBN":"55432334",
+            "price":"8.99"
+       },
+       {  
+            "title":"Eating Outside",
+            "author":"Jill Jones",
+            "publisher":"Nature Books Ltd.",
+            "ISBN":"13233151231",
+            "price":"11.25"
+       }
+    ],
+    "entertainment":[  
+       {  
+            "title":"Rock-solid Music",
+            "author":"Peter Steele",
+            "publisher":"Soundsys",
+            "ISBN":"424628242",
+            "price":"12.99"
+       }
+    ],
+    "mindAndBody":[  
+       {  
+            "title":"Forever Young",
+            "author":"Jenny Hoskins",
+            "publisher":"Mirabilis",
+            "ISBN":"3125134121",
+            "price":"11.99"
+       }
+    ],
+    "history":[  
+       {  
+            "title": "",
+            "author": "",
+            "publisher": "",
+            "ISBN": "",
+            "price": ""
+       }
+    ],
+    "hobbies":[  
+       {  
+            "title":"Mountaneering for Dummies",
+            "author":"Astrid Holmes",
+            "publisher":"Zen Publishing Ltd",
+            "ISBN":"52353622",
+            "price":"14.99"
+       }
+    ],
+    "homeAndGarden":[  
+       {  
+            "title":"Garden Zen",
+            "author":"Elijah Wood",
+            "publisher":"Zen Publishing Ltd",
+            "ISBN":"566234224",
+            "price":"12.99"
+       },
+       {  
+            "title":"House Exterior Design",
+            "author":"Pete Sandoval",
+            "publisher":"Zen Publishing Ltd",
+            "ISBN":"612511231",
+            "price":"16.49"
+       }
+    ],
+    "horror":[  
+       {  
+            "title": "",
+            "author": "",
+            "publisher": "",
+            "ISBN": "",
+            "price": ""
+        }
+    ],
+    "literatureAndFiction":[  
+       {  
+            "title": "",
+            "author": "",
+            "publisher": "",
+            "ISBN": "",
+            "price": ""
+       }
+    ],
+    "misteryAndThrillers":[  
+       {  
+            "title": "",
+            "author": "",
+            "publisher": "",
+            "ISBN": "",
+            "price": ""
+        }
+    ],
+    "nonFiction":[  
+       {  
+            "title": "",
+            "author": "",
+            "publisher": "",
+            "ISBN": "",
+            "price": ""
+       }
+    ],
+    "professionalAndTechnical":[  
+       {  
+            "title": "",
+            "author": "",
+            "publisher": "",
+            "ISBN": "",
+            "price": ""
+       }
+    ],
+    "reference":[  
+       {  
+            "title": "",
+            "author": "",
+            "publisher": "",
+            "ISBN": "",
+            "price": ""
+       }
+    ],
+    "religionAndSpirituality":[  
+       {  
+            "title": "",
+            "author": "",
+            "publisher": "",
+            "ISBN": "",
+            "price": ""
+       }
+    ],
+    "scienceAndNature":[  
+       {  
+            "title":"The miracles of the Nature",
+            "author":"John Spenser",
+            "publisher":"Nature Books Ltd.",
+            "ISBN":"12345678",
+            "price":"11.99"
+       },
+       {  
+            "title":"Ride the Lightning",
+            "author":"Peter Dweller",
+            "publisher":"Nature Books Ltd.",
+            "ISBN":"33214567",
+            "price":"11.49"
+       }
+    ],
+    "scienceFiction":[  
+       {  
+            "title":"The Dragon Tower",
+            "author":"Morgan Freeman",
+            "publisher":"Scala Publishing",
+            "ISBN":"4123628674",
+            "price":"19.49"
+       }
+    ],
+    "sportsAndOutdoors":[  
+       {  
+            "title": "",
+            "author": "",
+            "publisher": "",
+            "ISBN": "",
+            "price": ""
+       }
+    ],
+    "travel":[  
+       {  
+            "title": "",
+            "author": "",
+            "publisher": "",
+            "ISBN": "",
+            "price": ""
+       }
+    ]
+ }
